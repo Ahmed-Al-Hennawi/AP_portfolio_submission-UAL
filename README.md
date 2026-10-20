@@ -2,7 +2,7 @@
 
 **Developer:** Ahmed AlHennawi  
 **Program:** MSc Computer Science @ University of the Arts London (UAL)  
-**Live Portfolio:** https://git.arts.ac.uk/a-alhennawi0520251/AP_portfolio_Resubmission
+**Live Portfolio:** https://github.com/Ahmed-Al-Hennawi/AP_portfolio_submission-UAL
 
 ## 📝 Overview
 This repository contains a 6-week portfolio of interactive Python applications developed for the **Advanced Algorithms and Complexity** module. The goal of this portfolio is to move beyond static code execution by bringing algorithms to life through interactive visualisations, mathematical plotting, and dynamic data structures.
